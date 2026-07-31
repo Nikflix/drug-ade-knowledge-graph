@@ -1,0 +1,41 @@
+drug,kg_claims,kg_verifiable,llm_claims,llm_verifiable
+methotrexate,157,157,32,0
+lithium,69,69,45,0
+carbamazepine,59,59,47,0
+cis-platinum,48,48,48,0
+amiodarone,48,48,37,0
+cyclosporine a,46,46,45,0
+5-fluorouracil,45,45,32,0
+diphenylhydantoin,44,44,47,0
+infliximab,41,41,38,0
+cyclophosphamide,40,40,49,0
+clozapine,38,38,38,0
+salazosulfapyridine,36,36,29,0
+olanzapine,35,35,47,0
+tamoxifen,34,34,36,0
+human insulin,34,34,31,0
+risperidone,32,32,33,0
+gemcitabine,32,32,49,0
+l-asparaginase,32,32,35,0
+propylthiouracil,31,31,31,0
+bleomycin,30,30,36,0
+dapsone,29,29,37,0
+d-penicillamine,29,29,47,0
+ciprofloxacin,29,29,52,0
+captopril,27,27,41,0
+warfarin,27,27,54,0
+propranolol,27,27,52,0
+itraconazole,27,27,46,0
+cytosine arabinoside,26,26,48,0
+amphotericin b,25,25,38,0
+rituximab,25,25,32,0
+trimethoprim,24,24,43,0
+sulfamethoxazole,24,24,41,0
+valproate,24,24,47,0
+nitrofurantoin,24,24,50,0
+vancomycin,24,24,33,0
+leflunomide,23,23,44,0
+gold,23,23,44,0
+minocycline,22,22,47,0
+ethambutol,22,22,30,0
+phenobarbitone,22,22,49,0
