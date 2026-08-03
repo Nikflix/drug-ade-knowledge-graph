@@ -1,5 +1,5 @@
 # drug-ade-knowledge-graph
-readme = """# Provenance-Tracked Knowledge Graph for Drug–Adverse Event Extraction
+ Provenance-Tracked Knowledge Graph for Drug–Adverse Event Extraction
 
 Extracts drug -> adverse-effect relations from biomedical case-report text, assembles them
 into a knowledge graph where every edge carries its source sentence, and quantifies why
