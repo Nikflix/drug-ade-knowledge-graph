@@ -56,6 +56,3 @@ Used as a research benchmark; cite the source paper.
 Python, HuggingFace Transformers (DistilBERT), NetworkX, scikit-learn, RxNorm API, Groq
 (Llama-3.1-8B). Runs on free Colab.
 """
-
-open(f"{KG}/README.md", "w").write(readme)
-print("README written")
